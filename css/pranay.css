@@ -1,0 +1,48 @@
+.tooltip-content5::after {
+    left: 2% !important;
+}
+.tooltip-content5 {
+    width: 500px !important;
+    margin: 0 0 0 0 !important;
+}
+.tooltip-inner2{
+    font-size:13px !important;
+    text-align:left !important;
+}
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+.red{color:red !important;}
+body{
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#side-menu li a {    font-weight: bold !important;}
+.custom-select {height: calc(3.7rem) !important;}
+.mb-0{margin-bottom:0px !important;}
+.table > thead > tr > th {
+    font-weight: bold;
+}
+label{ font-weight: 900; }
+.printableArea{
+    /* font-size: 12px; */
+}
+@media print {
+    #print, #download {
+        display:none;
+    }
+}
+
+.w-logo{
+    background:#282828d6 !important;
+}
+
+.form-material .form-control{
+    padding: 0px 10px !important;
+}
+
+#loginform .form-control, #loginform .form-control:focus {
+    color: #ffffff !important;
+}
+

@@ -1,0 +1,48 @@
+
+
+
+.talign-r{text-align:right !important;}
+
+.mxw-720{max-width:720px !important;}
+.agent-ainfo{color: #696969 !important;}
+
+.agent-dp{
+height: 100%;
+border-radius: 60px;
+}
+
+
+.w-72px{width: 72px !important;}
+.h-72{height:72px !important;}
+.w-50px{width: 50px !important;}
+
+.badge{
+padding: 4px 8px !important;
+font-size: 0.7rem !important;
+}
+
+.border-color-input {
+  border-color: #a9a9a9 !important;
+}
+
+.dashboard-wrapper .db-sidebar {
+  flex: 0 1 260px !important;
+  max-width: 260px !important;
+}
+
+.dashboard-wrapper .db-sidebar .sticky-area{width: 260px !important;}
+.sidebar-item-icon{width:25px !important;}
+
+/*  .nav-link{padding:0.5rem !important;}   */
+
+#map {  height: 300px !important;}
+
+
+.sup-cat-img{height: 120px !important; width: 100% !important;}
+.supser-list .badge{letter-spacing: 0.3px !important; text-transform: none !important;}
+
+.h-lg-80{height: 80px !important;}
+
+@media only screen and (max-width: 600px) {
+  
+}
